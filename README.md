@@ -139,3 +139,53 @@ Emeritus:
 [Teletrace]: https://github.com/teletrace/opentelemetry-demo
 [Tracetest]: https://github.com/kubeshop/opentelemetry-demo
 [Uptrace]: https://github.com/uptrace/uptrace/tree/master/example/opentelemetry-demo
+
+
+
+---
+
+## 🧠 My Learning Experience (Personal Addendum)
+
+> 📌 This section is added by Dolly Sri Vemula as part of a personal learning project.  
+> Original authors and content remain credited as per the Apache 2.0 license.
+
+This repository is based on the [Ultimate DevOps Project](https://github.com/iam-veeramalla/ultimate-devops-project-demo) by Abhishek Veeramalla. All rights and credits go to the original author. This version has been cloned and customized for my learning and portfolio purposes.
+As part of my journey to better understand cloud-native observability and DevOps tooling, I explored this OpenTelemetry demo project thoroughly.
+
+## 📚 What I Learned
+
+As someone aiming to build a strong foundation in DevOps and cloud infrastructure, I used this project to learn and practice the following:
+
+- Provisioning cloud infrastructure using **Terraform** (Infrastructure as Code)
+- Creating and configuring **Amazon EKS** clusters to run Kubernetes workloads
+- Containerizing applications using **Docker**
+- Deploying microservices to Kubernetes using **kubectl** and **Kubernetes manifests**
+- Implementing a CI/CD pipeline using **GitHub Actions** for Continuous Integration and **Argo CD** for Continuous Deployment
+- Managing **DNS routing** via AWS Route 53
+- Setting up **monitoring and logging** with **AWS CloudWatch**
+- Following best practices for **networking**, **IAM roles**, and **cloud security**
+
+## 💻 How I Learned
+
+- I carefully followed each section of the original project documentation and video explanations from Abhishek Veeramalla’s [Udemy course](https://www.udemy.com/course/ultimate-devops-bootcamp/), taking detailed notes along the way.
+- Every part of the project was **implemented hands-on in my local system**, including:
+  - Terraform setup and execution
+  - Docker image creation and pushing to ECR
+  - Manual EKS cluster creation and Kubernetes deployment
+  - Configuration of CI/CD pipelines with GitHub Actions and Argo CD
+  - Testing and troubleshooting on my own machine
+
+This hands-on approach helped me understand not just the “how” but also the “why” behind each step in a real-world DevOps pipeline.
+
+---
+
+## ⚠️ Disclaimer
+
+This is not an original work. It is a **forked and personalized** version of the [Ultimate DevOps Project](https://github.com/iam-veeramalla/ultimate-devops-project-demo) created by Abhishek Veeramalla.
+
+This version exists purely for educational and portfolio purposes, and it follows the terms of the **MIT License**. The original LICENSE file is retained in this repository.
+
+📝 **Note:** This project remains the original work of the OpenTelemetry community. I have only cloned and practiced it for educational purposes, respecting the licensing terms under [Apache 2.0](https://github.com/open-telemetry/opentelemetry-demo/blob/main/LICENSE).
+
+
+---
